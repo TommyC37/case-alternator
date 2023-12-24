@@ -1,4 +1,4 @@
-# case-alternator
+# Case Alternator
 A Chrome extension that turns text into AlTeRnAtInG cApS
 
 ## How to Install
